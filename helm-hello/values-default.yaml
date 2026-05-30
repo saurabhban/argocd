@@ -1,4 +1,4 @@
-replicaCount: 2
+replicaCount: 3
 image:
   tag: "v1"
 namespace: default
