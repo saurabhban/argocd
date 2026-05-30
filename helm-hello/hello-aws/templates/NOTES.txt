@@ -1,0 +1,5 @@
+Hello AWS is deployed!
+
+Get the application URL:
+  kubectl port-forward svc/{{ include "hello-aws.fullname" . }} 8080:80
+  Open: http://localhost:8080

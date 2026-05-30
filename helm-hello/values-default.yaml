@@ -1,0 +1,7 @@
+replicaCount: 2
+image:
+  tag: "v1"
+namespace: default
+env:
+  LOG_LEVEL: "info"
+  ENV_NAME: "default"

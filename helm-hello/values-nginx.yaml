@@ -1,0 +1,7 @@
+replicaCount: 1
+image:
+  tag: "nginx"
+namespace: nginx-ns
+env:
+  LOG_LEVEL: "debug"
+  ENV_NAME: "nginx-ns"
