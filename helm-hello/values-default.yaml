@@ -1,6 +1,6 @@
 replicaCount: 3
 image:
-  tag: "v1"
+  tag: "45736636cb43aa06ae44cecfb0ccf28104dd6899"
 namespace: default
 env:
   LOG_LEVEL: "info"
